@@ -1,2 +1,3 @@
-abcdefgh
-1234567
+logger.addInfo("WELCOME TO GIt HUb SUPPORT");
+
+logger.addInfo("WELCOME TO Git Hub Demo");
